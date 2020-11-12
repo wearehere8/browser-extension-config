@@ -1,2 +1,2 @@
-# browser ex bak
+# browser extension backup
 
