@@ -1,0 +1,27 @@
+{
+  "blacklist": [],
+  "cache": true,
+  "custom": {},
+  "exactMatch": false,
+  "faqs": true,
+  "last-update": 1601906935027,
+  "log": false,
+  "mode": "whitelist",
+  "parser": {},
+  "popup-browser": "Chrome",
+  "popup-os": "Windows",
+  "protected": [],
+  "siblings": {},
+  "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4230.1 Safari/537.36",
+  "whitelist": [
+    "bilibili.com",
+    "v.qq.com",
+    "youdao.com",
+    "yinxiang.com",
+    "youtube.com",
+    "google.com",
+    "iqiyi.com"
+  ],
+  "json-guid": "50bedea7-4fd9-40d5-962e-b4f1aa3ad113",
+  "json-forced": false
+}
