@@ -1,26 +1,17 @@
 {
-  "timeStamp": 1609125736009,
-  "version": "1.32.0",
+  "timeStamp": 1614191111606,
+  "version": "1.33.2",
   "userSettings": {
-    "advancedUserEnabled": false,
-    "alwaysDetachLogger": true,
-    "autoUpdate": true,
     "cloudStorageEnabled": true,
-    "collapseBlocked": true,
-    "colorBlindFriendly": false,
-    "contextMenuEnabled": true,
-    "dynamicFilteringEnabled": false,
     "externalLists": "https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt",
-    "firewallPaneMinimized": true,
     "hyperlinkAuditingDisabled": false,
-    "ignoreGenericCosmeticFilters": false,
-    "largeMediaSize": 50,
-    "parseAllABPHideFilters": true,
+    "importedLists": [
+      "https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt",
+      "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt",
+      "https://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt"
+    ],
     "popupPanelSections": 63,
-    "prefetchingDisabled": true,
-    "requestLogMaxEntries": 1000,
-    "showIconBadge": true,
-    "tooltipsDisabled": false,
+    "prefetchingDisabled": false,
     "webrtcIPAddressHidden": true
   },
   "selectedFilterLists": [
@@ -38,6 +29,7 @@
     "https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt"
   ],
   "hiddenSettings": {
+    "autoUpdatePeriod": 7,
     "blockingProfiles": "11111/#F00 11011/#C0F 11001/#00F 00001"
   },
   "whitelist": [
@@ -62,11 +54,13 @@
     "passport.bilibili.com",
     "portal.azure.com",
     "quote.eastmoney.com",
+    "steamcommunity.com",
     "vivaldi-scheme",
     "willdevoffice.sharepoint.com",
     "wt.qq.com",
     "www.88.com",
     "www.battlenet.com.cn",
+    "www.genelink.com",
     "www.humblebundle.com",
     "www.kaspersky.com.cn",
     "www.kctjw.com",
@@ -78,7 +72,6 @@
     "wyciwyg-scheme",
     "xueshu.baidu.com"
   ],
-  "netWhitelist": "# about-scheme\n# moz-extension-scheme\nbaike.so.com\nchrome-extension-scheme\nchrome-scheme\ncloud.189.cn\ndata.eastmoney.com\ndeveloper.microsoft.com\ni.mi.com\njijidown.com\njump2.bdimg.com\nlogin.live.com\nmap.baidu.com\nmiwifi.com\nmysignins.microsoft.com\nnetdisk-pan.baidupcs.com\nopera-scheme\npan.baidu.com\npassport.bilibili.com\nportal.azure.com\nquote.eastmoney.com\nvivaldi-scheme\nwilldevoffice.sharepoint.com\nwt.qq.com\nwww.88.com\nwww.battlenet.com.cn\nwww.humblebundle.com\nwww.kaspersky.com.cn\nwww.kctjw.com\nwww.mi.com\nwww.microsoft.com\nwww.office.com\nwww.reddit.com\nwy.koolearn.com\nwyciwyg-scheme\nxueshu.baidu.com",
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop\ncctv.com * 3p-script noop\ngithub.com * 3p-script noop\ngithub.io * 3p-script noop\nlefuntv.us * 3p-script noop\nlefuntv.us * 3p-frame noop\nsohu.com * 3p-script noop\nsou.pansou.com * 3p-script noop\nsourceforge.net * 3p-script noop\nweather.com.cn * 3p-script noop\nwww.bilibili.com api.live.bilibili.com * block\nwww.css88.com upaiyun.com * block\nwww.le.com * 3p-script noop\nwww.wikiwand.com * 3p-script noop\n* * 3p-script block\n* * 3p-frame block\n* 1suplayer.me * noop\n* 927jx.com * noop\n* ab33.top * noop\n* akamaihd.net * noop\n* alicdn.com * noop\n* aliyun.com * noop\n* bdimg.com * noop\n* bdstatic.com * noop\n* doubanio.com * noop\n* douyucdn.cn * noop\n* geetest.com * noop\n* github.com * noop\n* google.cn * noop\n* google.com * noop\n* growingio.com * noop\n* gstatic.cn * noop\n* gstatic.com * noop\n* gtimg.cn * noop\n* gtimg.com * noop\n* hdslb.com * noop\n* ikafan.com * noop\n* iqiyi.com * noop\n* iqiyipic.com * noop\n* jianshu.io * noop\n* jqaaa.com * noop\n* jstucdn.com * noop\n* log.mmstat.com * allow\n* medium.com * noop\n* mozilla.net * noop\n* msstatic.com * noop\n* myqcloud.com * noop\n* pplive.cn * noop\n* pstatp.com * noop\n* qbox.me * noop\n* qianqian.com * noop\n* qnssl.com * noop\n* qq.com * noop\n* qy.net * noop\n* recaptcha.net * noop\n* sina.cn * noop\n* sinaimg.cn * noop\n* sinajs.cn * noop\n* snssdk.com * noop\n* soku.com * noop\n* sstatic.net * noop\n* tedcdn.com * noop\n* unpkg.com * noop\n* url.js.cn * noop\n* viidii.info * noop\n* vip.66parse.club * noop\n* www.bing.com * noop\n* xitu.io * noop\n* ykimg.com * noop\n* youku.com * noop\n* youtube.com * noop\n* ytimg.com * noop\n* yunbcdn.com * noop\n* zhimg.com * noop\n163.com * 3p-script noop\n36kr.com * 3p-script noop\napi.927jx.com * 3p-script noop\n* 126c.cn * noop\n* cdn-go.cn * noop\n* cntv.cn * noop\n* login.sina.com.cn * noop\n* tq121.com.cn * noop\n* csdnimg.cn * noop\n* mtime.cn * noop\n* libs.baidu.com * noop\n* bcebos.com * noop\n* bootcss.com * noop\n* cctvpic.com * noop\n* cloudflare.com * noop\n* googleapis.com * noop\n* jquery.com * noop\n* mmstat.com * noop\n* a.msstatic.com * noop\n* videojj.com * noop\n* yskanba.com * noop\n* cloudfront.net * noop\nwww.acfun.cn * 3p-script noop\nwww.haitur.com * 3p-script noop\nwww.haitur.com * 3p-frame noop\nwww.yatu.tv * 3p-script noop\nwww.yatu.tv * 3p-frame noop",
   "urlFilteringString": "* http://cdn. * noop\n* http://jx. * noop\n* https://cdn. * noop\n* https://iqiyi. * noop\n* https://jiexi. * noop\n* https://jx. * noop\n* https://play. * noop\n* https://player. * noop\n* https://youku. * noop\nwww.i6v.cc https://youku. * noop",
   "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-scripting: tianyabooks.com true\nno-csp-reports: * true",
