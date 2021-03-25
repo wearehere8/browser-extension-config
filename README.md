@@ -4,7 +4,7 @@ I use firefox nightly now.
 ---
 |file name|extension|note|
 |---|---|---|
-|all-browser-engines.json|[search-engines-helper](https://addons.mozilla.org/zh-CN/firefox/addon/search-engines-helpers)||
+|all-browser-engines.json|[search engines helper](https://addons.mozilla.org/zh-CN/firefox/addon/search-engines-helpers)||
 |config-00000000000.saladict|[沙拉查词(saladict)](https://addons.mozilla.org/zh-CN/firefox/addon/ext-saladict)||
 |my-ublock-backup.txt|[uBlcok Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin)|desktop|
 |my-ublock-mobile.txt|[uBlcok Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin)|android|
