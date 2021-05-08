@@ -6,8 +6,7 @@ I use firefox nightly now.
 |---|---|---|
 |all-browser-engines.json|[search engines helper](https://addons.mozilla.org/zh-CN/firefox/addon/search-engines-helpers)||
 |config-00000000000.saladict|[沙拉查词(saladict)](https://addons.mozilla.org/zh-CN/firefox/addon/ext-saladict)||
-|my-ublock-backup.txt|[uBlcok Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin)|desktop|
-|my-ublock-mobile.txt|[uBlcok Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin)|android|
+|my-ublock-backup.txt|[uBlcok Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin)|desktop&android|
 |tampermonkey-backup.txt|[Tampermonkey](https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey)||
 |useragent-switcher-preferences.json|[User-Agent Switcher and Manager](https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-string-switcher)||
 |scholarscope_local_data.ssbackup|[Scholarscope](https://addons.mozilla.org/zh-CN/firefox/addon/scholarscope)||
