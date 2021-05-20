@@ -1,16 +1,16 @@
 {
-  "timeStamp": 1621499707996,
+  "timeStamp": 1621500494948,
   "version": "1.35.2",
   "userSettings": {
     "cloudStorageEnabled": true,
-    "externalLists": "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt\nhttps://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt\nhttps://easylist-downloads.adblockplus.org/easylistchina.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt\nhttps://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+    "externalLists": "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt\nhttps://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt\nhttps://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt\nhttps://easylist-downloads.adblockplus.org/easylistchina.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt",
     "hyperlinkAuditingDisabled": false,
     "importedLists": [
+      "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt",
       "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt",
       "https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt",
       "https://easylist-downloads.adblockplus.org/easylistchina.txt",
-      "https://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt",
-      "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+      "https://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt"
     ],
     "popupPanelSections": 63,
     "webrtcIPAddressHidden": true
@@ -28,9 +28,9 @@
     "urlhaus-1",
     "CHN-0",
     "https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt",
-    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
-    "https://easylist-downloads.adblockplus.org/easylistchina.txt",
-    "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt"
+    "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt",
+    "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt",
+    "https://easylist-downloads.adblockplus.org/easylistchina.txt"
   ],
   "hiddenSettings": {
     "autoUpdatePeriod": 7,
