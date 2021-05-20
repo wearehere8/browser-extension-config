@@ -1,13 +1,12 @@
 {
-  "timeStamp": 1621500494948,
+  "timeStamp": 1621500978093,
   "version": "1.35.2",
   "userSettings": {
     "cloudStorageEnabled": true,
-    "externalLists": "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt\nhttps://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt\nhttps://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt\nhttps://easylist-downloads.adblockplus.org/easylistchina.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt",
+    "externalLists": "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt\nhttps://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt\nhttps://easylist-downloads.adblockplus.org/easylistchina.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt",
     "hyperlinkAuditingDisabled": false,
     "importedLists": [
       "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt",
-      "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt",
       "https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt",
       "https://easylist-downloads.adblockplus.org/easylistchina.txt",
       "https://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt"
@@ -29,7 +28,6 @@
     "CHN-0",
     "https://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt",
     "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt",
-    "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt",
     "https://easylist-downloads.adblockplus.org/easylistchina.txt"
   ],
   "hiddenSettings": {
