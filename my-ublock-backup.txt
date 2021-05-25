@@ -1,8 +1,7 @@
 {
-  "timeStamp": 1621968898378,
+  "timeStamp": 1621971750617,
   "version": "1.35.2",
   "userSettings": {
-    "advancedUserEnabled": true,
     "cloudStorageEnabled": true,
     "externalLists": "https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt\nhttps://cdn.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@master/rule.txt\nhttps://easylist-downloads.adblockplus.org/easylistchina.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/ublock-dynamic-rule.txt",
     "firewallPaneMinimized": false,
