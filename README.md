@@ -13,4 +13,4 @@ I use firefox nightly now.
 |search.json.mozlz4|firefox search engines config|about:profiles, open root, replace it.||
 |singlefile-settings.json|[SingleFile](https://addons.mozilla.org/zh-CN/firefox/addon/single-file)||
 |stylus-0000-00-00.json|[Stylus](https://addons.mozilla.org/zh-CN/firefox/addon/styl-us)||
-|aria2.conf|[aira2](https://github.com/aria2/aria2)|aira2配置文件|
+|aria2|[aira2](https://github.com/aria2/aria2)|aira2配置文件|
